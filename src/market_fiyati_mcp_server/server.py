@@ -30,7 +30,11 @@ mcp = FastMCP("Market Fiyatı")
 
 
 # ---------- tools ----------
-@mcp.tool(title="Search product")
+@mcp.tool(
+    name="search_product",
+    description="Search for products matching given keywords.",
+    title="Search product",
+)
 def search_product(
     keywords: str,
     latitude: Optional[float] = None,
@@ -63,7 +67,11 @@ def search_product(
     return [TextContent(type="text", text=msg)], resp
 
 
-@mcp.tool(title="Search product by identity")
+@mcp.tool(
+    name="search_product_by_identity",
+    description="Retrieve product information by a unique identity (e.g., barcode or internal ID).",
+    title="Search product by identity",
+)
 def search_product_by_identity(
     identity: str,
     identityType: str = "id",
@@ -100,7 +108,11 @@ def search_product_by_identity(
     return [TextContent(type="text", text=msg)], resp
 
 
-@mcp.tool(title="Search similar products")
+@mcp.tool(
+    name="search_similar_products",
+    description="Find products similar to a reference item ID, optionally refined by keywords and geographic constraints.",
+    title="Search similar products",
+)
 def search_similar_products(
     id: str,
     keywords: str,
