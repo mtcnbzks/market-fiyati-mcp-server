@@ -18,5 +18,10 @@ dev = [
     "ruff>=0.12.4",
 ]
 
+[project.urls]
+Homepage = "https://mcp-demo-landing-page.vercel.app/"
+Documentation = "https://github.com/mtcnbzks/market-fiyati-mcp-server"
+Repository = "https://github.com/mtcnbzks/market-fiyati-mcp-server"
+
 [project.scripts]
 market-fiyati-mcp-server = "market_fiyati_mcp_server.server:main"
