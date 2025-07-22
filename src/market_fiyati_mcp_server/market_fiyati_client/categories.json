@@ -1,0 +1,103 @@
+[
+  {
+    "name": "Meyve ve Sebze",
+    "subcategories": [
+      "Meyve",
+      "Sebze"
+    ]
+  },
+  {
+    "name": "Et, Tavuk ve Balık",
+    "subcategories": [
+      "Kırmızı Et",
+      "Beyaz Et",
+      "Deniz Ürünleri",
+      "Şarküteri",
+      "Sakatat"
+    ]
+  },
+  {
+    "name": "Süt Ürünleri ve Kahvaltılık",
+    "subcategories": [
+      "Süt",
+      "Yumurta",
+      "Peynir",
+      "Yoğurt",
+      "Zeytin",
+      "Tereyağı ve Margarin",
+      "Sürülebilir Ürünler ve Kahvaltılık Soslar",
+      "Helva Tahin ve Pekmez",
+      "Bal ve Reçel",
+      "Kahvaltılık Gevrek Bar ve Granola",
+      "Kaymak ve Krema"
+    ]
+  },
+  {
+    "name": "Temel Gıda",
+    "subcategories": [
+      "Ekmek ve Unlu Mamüller",
+      "Sıvı Yağlar",
+      "Bakliyat",
+      "Şeker ve Tatlandırıcılar",
+      "Pasta Malzemeleri",
+      "Un ve İrmik",
+      "Mantı Makarna ve Erişte",
+      "Ketçap Mayonez Sos ve Sirkeler",
+      "Tuz Baharat ve Harçlar",
+      "Salça",
+      "Turşu",
+      "Konserve",
+      "Hazır Gıda",
+      "Bebek Mamaları"
+    ]
+  },
+  {
+    "name": "İçecek",
+    "subcategories": [
+      "Su",
+      "Meyve Suyu",
+      "Gazlı İçecekler",
+      "Gazsız İçecekler",
+      "Ayran ve Kefir",
+      "Maden Suyu",
+      "Çay ve Bitki Çayları",
+      "Kahve"
+    ]
+  },
+  {
+    "name": "Atıştırmalık ve Tatlı",
+    "subcategories": [
+      "Çikolata",
+      "Gofret",
+      "Bisküvi ve Kraker",
+      "Kek",
+      "Cips",
+      "Kuruyemiş ve Kuru Meyve",
+      "Sakız ve Şekerleme",
+      "Tatlılar",
+      "Dondurmalar"
+    ]
+  },
+  {
+    "name": "Temizlik ve Kişisel Bakım Ürünleri",
+    "subcategories": [
+      "Bulaşık Temizlik Ürünleri",
+      "Çamaşır Temizlik Ürünleri",
+      "Genel Temizlik Ürünleri",
+      "Mutfak Sarf Malzemeleri",
+      "Tuvalet Kağıdı",
+      "Kağıt Havlu",
+      "Kağıt Peçete ve Mendil",
+      "Islak Mendil",
+      "Saç Bakım",
+      "Duş Banyo ve Sabun",
+      "Ağız Bakım",
+      "Hijyenik Ped",
+      "Bebek ve Hasta Bezi",
+      "Parfüm Deodorant Kolonya ve Kokular",
+      "Cilt Bakımı",
+      "Makyaj",
+      "Diğer Temizlik ve Kişisel Bakım Ürünleri"
+    ]
+  }
+]
